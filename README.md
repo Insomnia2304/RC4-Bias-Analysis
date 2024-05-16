@@ -11,4 +11,4 @@
  */
 
 After running the algorithm you will observe that starting from the 2nd byte there is a much higher probability of obtaining a value of 0.
-The param *number_of_tests* should be set as high as possible for clearer results.
+The param ```number_of_tests``` should be set as high as possible for clearer results.
